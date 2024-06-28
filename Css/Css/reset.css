@@ -1,0 +1,15 @@
+* {/*configurções gerais*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {/*configurções gerais*/
+    font-family: Arial, sans-serif;
+}
+main{
+    margin-right: 10px;
+}
+.acordeao{
+    margin-right: 10px;
+}
