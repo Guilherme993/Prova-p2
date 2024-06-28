@@ -83,3 +83,13 @@ footer {
 .icon>img{
     width: 20px;
 }/*fim rodape*/
+.endereco{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.location{
+    width: 20px;
+}
